@@ -1,0 +1,26 @@
+{
+
+    "/imprimir": "imprimir 'Olá, mundo!';",
+    "/percorrer": "percorrer(lista) { imprimir item; }",
+    "/retornar": "retornar resultado;",
+    "/se": "se (condicao) { imprimir 'Verdadeiro'; } senao { imprimir 'Falso'; }",
+    "/tentar": "tentar { // código } tratar (excecao) { // tratamento } finalizar { // finalização }",
+    "/Arquivo.novo": "arquivo = Arquivo.novo('nome.txt', 'txt');",
+    "/Arquivo.abrir": "arquivo = Arquivo.abrir('nome.txt');",
+    "/Arquivo.escrever": "arquivo.escrever('Conteúdo do arquivo');",
+    "/Arquivo.ler": "conteudo = arquivo.ler();",
+    "/Arquivo.fechar": "arquivo.fechar();",
+    "/Email.enviar": "Email.enviar(destinatario: 'email@exemplo.com', assunto: 'Assunto', mensagem: 'Corpo do e-mail');",
+    "/Notificacao.enviar": "Notificacao.enviar(usuario: 'usuario', mensagem: 'Mensagem de notificação');",
+    "/Http.servico": "servico = Http.servico('https://api.exemplo.com');",
+    "/Http.servico().GET": "resposta = servico.GET('/recurso');",
+    "/Http.servico().POST": "resposta = servico.POST('/recurso', dados);",
+    "/Criterio.onde": "criterio = Criterio.onde('campo').igual('valor');",
+    "/Dados.busca": "resultado = Dados.caminho.busca(criterio);",
+    "/Cache.definir": "Cache.definir('chave', valor);",
+    "/Cache.obter": "valor = Cache.obter('chave');",
+    "/Datas.hoje": "dataAtual = Datas.hoje();",
+    "/Datas.somarDias": "novaData = dataAtual.somarDias(5);",
+    "/Caracteres.maiusculo": "textoMaiusculo = Caracteres.maiusculo('texto');",
+    "/Numeros.arredonda": "valorArredondado = Numeros.arredonda(3.14159, 2);"
+  }
