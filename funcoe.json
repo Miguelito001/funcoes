@@ -2,7 +2,7 @@
     "/teste": "testado again 4.0",
     
     "/Esquema.lista": "campo: Esquema.lista ( Esquema.objeto ([ campo1: Esquema.caracter ])),",
-    "/fonte":"esquema = [campo1: Esquema.caracter, campo2: Esquema.numero]; fonte = Dados.dinamico.v2.novo(esquema); return fonte;",
+    "/fonte":"esquema = [campo1: Esquema.caracter, campo2: Esquema.numero];\nfonte = Dados.dinamico.v2.novo(esquema);\nreturn fonte;",
     "/imprimir": "imprimir 'Olá, mundo!';",
     "/percorrer": "percorrer(lista) { imprimir item; }",
     "/retornar": "retornar resultado;",
