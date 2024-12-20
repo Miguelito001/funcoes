@@ -1,7 +1,7 @@
 {
     "/teste": "testado again 6.0",
 
-    "/formatarcep": "def formatarCEP(String cep) {\n    cep = cep.replaceAll(/\\D/, '')\n    if (cep.size() == 8) {\n        return cep[0..1] + '.' + cep[2..4] + '-' + cep[5..7]\n    } else {\n        return cep\n    }\n}"
+    "/formatarcep": "def formatarCEP(String cep) {\n    cep = cep.replaceAll(/\\D/, '')\n    if (cep.size() == 8) {\n        return cep[0..1] + '.' + cep[2..4] + '-' + cep[5..7]\n    } else {\n        return cep\n    }\n}",
     "/Esquema.lista": "campo: Esquema.lista ( Esquema.objeto ([\ncampo1: Esquema.caracter\n])),",
     "/fonte":"esquema = [\ncampo1: Esquema.caracter,\ncampo2: Esquema.numero];\nfonte = Dados.dinamico.v2.novo(esquema);\nreturn fonte;",
     "/imprimir": "imprimir 'Olá, mundo!';",
