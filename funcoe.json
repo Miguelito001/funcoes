@@ -1,5 +1,5 @@
 {
-
+    "/fonte":"esquema = [campo1: Esquema.caracter, campo2: Esquema.numero]; fonte = Dados.dinamico.v2.novo(esquema); return fonte;",
     "/imprimir": "imprimir 'Olá, mundo!';",
     "/percorrer": "percorrer(lista) { imprimir item; }",
     "/retornar": "retornar resultado;",
