@@ -1,5 +1,5 @@
 {
-    "/teste": "testado again 2.0",
+    "/teste": "testado again 3.0",
     
     "/Esquema.lista": "campo: Esquema.lista ( Esquema.objeto ([ campo1: Esquema.caracter ])),",
     "/fonte":"esquema = [campo1: Esquema.caracter, campo2: Esquema.numero]; fonte = Dados.dinamico.v2.novo(esquema); return fonte;",
